@@ -1,2 +1,2 @@
-s = 'Строки в Python'
-
+s = 'hello world'
+print(s.upper()) # HELLO WORLD
